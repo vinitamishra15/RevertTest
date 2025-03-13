@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Test_client_script</name>
+        <order/>
+        <script><![CDATA[//This is a test client script]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 14:30:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>65ba15ab471cd2903c241a2f316d4314</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test_client_script</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="DevOps_Test" source="44b1ccab471092903c241a2f316d43b1">44b1ccab471092903c241a2f316d43b1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DevOps_Test">44b1ccab471092903c241a2f316d43b1</sys_scope>
+        <sys_update_name>sys_script_client_65ba15ab471cd2903c241a2f316d4314</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 14:30:25</sys_updated_on>
+        <table/>
+        <type/>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DevOps_Test">44b1ccab471092903c241a2f316d43b1</application>
+        <file_path/>
+        <instance_id>372b19a7db654a58ebdd2a59139619aa</instance_id>
+        <instance_name>dev260877</instance_name>
+        <name>sys_script_client_65ba15ab471cd2903c241a2f316d4314</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;
+    &lt;sys_script_client action="INSERT_OR_UPDATE"&gt;
+        &lt;active&gt;true&lt;/active&gt;
+        &lt;applies_extended&gt;false&lt;/applies_extended&gt;
+        &lt;condition/&gt;
+        &lt;description/&gt;
+        &lt;field/&gt;
+        &lt;global&gt;true&lt;/global&gt;
+        &lt;isolate_script&gt;true&lt;/isolate_script&gt;
+        &lt;messages/&gt;
+        &lt;name&gt;Test_client_script&lt;/name&gt;
+        &lt;order/&gt;
+        &lt;script&gt;&lt;![CDATA[//This is a test client script]]&gt;&lt;/script&gt;
+        &lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2024-09-03 14:30:25&lt;/sys_created_on&gt;
+        &lt;sys_domain&gt;global&lt;/sys_domain&gt;
+        &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
+        &lt;sys_id&gt;65ba15ab471cd2903c241a2f316d4314&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;
+        &lt;sys_name&gt;Test_client_script&lt;/sys_name&gt;
+        &lt;sys_overrides/&gt;
+        &lt;sys_package display_value="DevOps_Test" source="44b1ccab471092903c241a2f316d43b1"&gt;44b1ccab471092903c241a2f316d43b1&lt;/sys_package&gt;
+        &lt;sys_policy/&gt;
+        &lt;sys_scope display_value="DevOps_Test"&gt;44b1ccab471092903c241a2f316d43b1&lt;/sys_scope&gt;
+        &lt;sys_update_name&gt;sys_script_client_65ba15ab471cd2903c241a2f316d4314&lt;/sys_update_name&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2024-09-03 14:30:25&lt;/sys_updated_on&gt;
+        &lt;table/&gt;
+        &lt;type/&gt;
+        &lt;ui_type&gt;0&lt;/ui_type&gt;
+        &lt;view/&gt;
+    &lt;/sys_script_client&gt;
+&lt;/record_update&gt;</payload>
+        <payload_hash>1312184490</payload_hash>
+        <record_name>Test_client_script</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-05 04:21:35</sys_created_on>
+        <sys_id>db7ae99a834822106473c170deaad3dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19564899e780000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-05 04:21:35</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>9b7ae99aff48221050c2295061450edd</update_guid>
+        <update_guid_history>3c15e516ea48221030e9e3201a1fad7a:583888558,c6a46dd2494822106f1c921831f1d976:1312184490</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-05 04:27:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>5c368bd4738c46fc989be5c243364fc4</sys_id>
+        <sys_metadata>65ba15ab471cd2903c241a2f316d4314</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test_client_script</sys_name>
+        <sys_package display_value="DevOps_Test" source="44b1ccab471092903c241a2f316d43b1">44b1ccab471092903c241a2f316d43b1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DevOps_Test">44b1ccab471092903c241a2f316d43b1</sys_scope>
+        <sys_scope_delete display_value="">62390054c0ee4dfdb61910242d218da1</sys_scope_delete>
+        <sys_update_name>sys_script_client_65ba15ab471cd2903c241a2f316d4314</sys_update_name>
+        <sys_update_version display_value="sys_script_client_65ba15ab471cd2903c241a2f316d4314">db7ae99a834822106473c170deaad3dd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-05 04:27:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

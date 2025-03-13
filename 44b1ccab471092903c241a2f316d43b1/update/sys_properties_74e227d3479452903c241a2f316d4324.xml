@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>If true, portal css would be in rem units</description>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.service_portal.resize_text.spd.enable_rem_conversion</name>
+        <read_roles/>
+        <suffix/>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 05:46:04</sys_created_on>
+        <sys_id>74e227d3479452903c241a2f316d4324</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>glide.service_portal.resize_text.spd.enable_rem_conversion</sys_name>
+        <sys_package display_value="DevOps_Test" source="44b1ccab471092903c241a2f316d43b1">44b1ccab471092903c241a2f316d43b1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DevOps_Test">44b1ccab471092903c241a2f316d43b1</sys_scope>
+        <sys_update_name>sys_properties_74e227d3479452903c241a2f316d4324</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 08:01:14</sys_updated_on>
+        <type>boolean</type>
+        <value>true</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=74e227d3479452903c241a2f316d4324"/>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="DevOps_Test">44b1ccab471092903c241a2f316d43b1</claim_owner_scope>
+        <claim_timestamp>191b6e6f3400000001</claim_timestamp>
+        <metadata_update_name>sys_properties_74e227d3479452903c241a2f316d4324</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>DevOps_Test</previous_claim_name>
+        <previous_claim_scope>44b1ccab471092903c241a2f316d43b1</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 08:01:14</sys_created_on>
+        <sys_id>38d1cc27475092903c241a2f316d432e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 08:01:14</sys_updated_on>
+    </sys_claim>
+</record_update>
